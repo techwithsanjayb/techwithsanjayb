@@ -1,10 +1,4 @@
 ### Hi there , This is Sanjay Bhargava , A passionate Software Application Developer 👋
-
-
-**techwithsanjayb/techwithsanjayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Application and Website development.
 - 🌱 I’m currently learning various technology and tools being used in IT industry .
 - 👯 I’m looking to collaborate on web development and software development .
