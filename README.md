@@ -7,3 +7,5 @@
 - 📫 How to reach me: Contact me on my email sanjayb.info@gmail.com
 - 😄 Pronouns: Sanju Baba 
 - ⚡ Fun fact: Secret Sprititual Knowledge Geek 
+
+https://github-readme-streak-stats.herokuapp.com/?user=techwithsanjayb
