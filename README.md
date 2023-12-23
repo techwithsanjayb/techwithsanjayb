@@ -10,3 +10,5 @@
 
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=techwithsanjayb&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=499" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
