@@ -7,7 +7,7 @@
 - 📫 How to reach me: Contact me on my email sanjayb.info@gmail.com
 - 😄 Pronouns: Sanju Baba 
 - ⚡ Fun fact: Secret Sprititual Knowledge Geek
-- [![My Skills](https://skillicons.dev/icons?i=python,django,js,mysql.linux,docker,redis,joomla,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=python,django,js,linux,docker,redis,joomla,html,css)](https://skillicons.dev)
 
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=techwithsanjayb&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=499" alt="GitHub Streak" /></a>
